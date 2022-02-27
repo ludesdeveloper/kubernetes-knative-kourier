@@ -15,7 +15,7 @@ https://github.com/ludesdeveloper/kubernetes-knative-kourier.git
 ```
 cd kubernetes-knative-kourier
 ```
-3. Install with script
+3. Install with script (This script is following [this](https://knative.dev/docs/install/operator/knative-with-operators/#install-the-networking-layer) tutorial)
 ```
 ./install_knative.sh
 ```
